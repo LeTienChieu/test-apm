@@ -1,4 +1,4 @@
-package io.sayadi.elasticapmspringbootintegration;
+package com.example.apm;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
